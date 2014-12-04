@@ -1,6 +1,6 @@
 {
   "name": "hierarchical-task-list-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A webapp for managing hierarchical task lists, designed to streamline time estimating and tracking task progress.",
   "main": "index.js",
   "license": "MIT",
