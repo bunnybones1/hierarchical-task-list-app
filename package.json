@@ -1,0 +1,30 @@
+{
+  "name": "hierarchical-task-list-app",
+  "version": "1.0.0",
+  "description": "A webapp for managing hierarchical task lists, designed to streamline time estimating and tracking task progress.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "task",
+    "list",
+    "todo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/hierarchical-task-list-app.git"
+  },
+  "homepage": "https://github.com/bunnybones1/hierarchical-task-list-app",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/hierarchical-task-list-app/issues"
+  }
+}
